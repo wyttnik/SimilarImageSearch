@@ -7,7 +7,7 @@ You can use model included in this repository or make your own.
 
 Run **model_creation.py** to train the model and create .csv table consistng of keypoint descriptors of images located in 'base'.
 
-To see the actual result use *streamlit run sim_pics.py*
+To see the actual result use ***streamlit run sim_pics.py***
 
 # Example:
 ![example](https://user-images.githubusercontent.com/81494616/208318692-fae44f26-9ea6-4b1e-bdf3-3c536bf90553.png)
